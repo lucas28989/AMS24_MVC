@@ -1,0 +1,14 @@
+D:\jeff\Trabalho_Herança_Veículo\bin\Debug\net8.0\Trabalho_Herança_Veículo.exe
+D:\jeff\Trabalho_Herança_Veículo\bin\Debug\net8.0\Trabalho_Herança_Veículo.deps.json
+D:\jeff\Trabalho_Herança_Veículo\bin\Debug\net8.0\Trabalho_Herança_Veículo.runtimeconfig.json
+D:\jeff\Trabalho_Herança_Veículo\bin\Debug\net8.0\Trabalho_Herança_Veículo.dll
+D:\jeff\Trabalho_Herança_Veículo\bin\Debug\net8.0\Trabalho_Herança_Veículo.pdb
+D:\jeff\Trabalho_Herança_Veículo\obj\Debug\net8.0\Trabalho_Herança_Veículo.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeff\Trabalho_Herança_Veículo\obj\Debug\net8.0\Trabalho_Herança_Veículo.AssemblyInfoInputs.cache
+D:\jeff\Trabalho_Herança_Veículo\obj\Debug\net8.0\Trabalho_Herança_Veículo.AssemblyInfo.cs
+D:\jeff\Trabalho_Herança_Veículo\obj\Debug\net8.0\Trabalho_Herança_Veículo.csproj.CoreCompileInputs.cache
+D:\jeff\Trabalho_Herança_Veículo\obj\Debug\net8.0\Trabalho_Herança_Veículo.dll
+D:\jeff\Trabalho_Herança_Veículo\obj\Debug\net8.0\refint\Trabalho_Herança_Veículo.dll
+D:\jeff\Trabalho_Herança_Veículo\obj\Debug\net8.0\Trabalho_Herança_Veículo.pdb
+D:\jeff\Trabalho_Herança_Veículo\obj\Debug\net8.0\Trabalho_Herança_Veículo.genruntimeconfig.cache
+D:\jeff\Trabalho_Herança_Veículo\obj\Debug\net8.0\ref\Trabalho_Herança_Veículo.dll

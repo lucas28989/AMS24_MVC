@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Trabalho_Herança_Veículo/1.0.0": {
+        "runtime": {
+          "Trabalho_Herança_Veículo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabalho_Herança_Veículo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
